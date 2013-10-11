@@ -1,1 +1,12 @@
-This file was created by IntelliJ IDEA 12.1.6 for binding GitHub repository
+This is based off of a midterm assignment we received in a visual basic programming class.
+The goal was to create a diamond number pattern I drew out in the OddNumbersDiamond.java file.
+I had missed a class where some specific code was given for the pattern, 
+and there in class I had a frustrating time deciding how to make out the pattern. 
+
+I didn't finish, so that night at home I made myself bust it out in Java to at least 
+prove to myself that I could finish it. Later on we caught a glimpse of the solution and I saw 
+(I wasn't surprised; I knew my solution was way too complicated XD) that although it was 
+related to mine, it was far simpler. 
+
+Anyway, so fork this baby and make it simpler! ;) 
+Either way, I had fun doing some straight up Java rather than Android.
